@@ -1,4 +1,4 @@
-### Hi, I'm Andi 👋  Yes, I'm a lady coder :P
+### Hi, I'm Andi 👋  Yes, I'm a lady coder :yum:
 
 I'm a self-taught developer and I'm originally from Cape Town, South Africa and I'm currently based in London, UK. I'm looking to get my first gig as a Software Engineer. My first preference is to work as a Backend Developer, but I am open to Front end and Full Stack developer roles. In the meanwhile, I plan to continue building projects and network with fellow software engineers - both experienced and fellow aspiring developers like myself. Although I am most familiar with Python, I'm open to learn any new language and / or framework that is needed for a role. 
 
@@ -11,9 +11,15 @@ I'm a self-taught developer and I'm originally from Cape Town, South Africa and 
 <img align="left" alt="HTML5" width="100px" height="30px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img align="left" alt="C" width="100px" height="30px" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 <img align="left" alt="Jekyll" width="100px" height="30px" src="https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white">
+<img align="left" alt="JavaScript" width="100px" height="30px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 
 <br/>
 <br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CardinisCode&layout=compact)](https://github.com/CardinisCode/github-readme-stats)
+
+
+## Latest Project:
 
 To see my skills at work, please take a look at the web app [Job Hunt Manager](https://jobhuntmanger.herokuapp.com) that I developed recently: 
 
@@ -42,6 +48,7 @@ Currently I'm building my personal profile site, using Github Pages and Jekyll -
 * Going for long walks
 * Music: everything from rock, to the blues and EDM. The Queen really gets me going! 
 
+
 ## Connect with me:
 
 <a href="https://www.linkedin.com/in/acfolgado/">
@@ -54,6 +61,7 @@ Currently I'm building my personal profile site, using Github Pages and Jekyll -
 
 ## My GitHub Stats:
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=CardinisCode&show_icons=true&theme=tokyonight)
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CardinisCode&layout=compact)](https://github.com/CardinisCode/github-readme-stats)
 
 My code-learning adventure has only just began! 
