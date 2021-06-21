@@ -60,7 +60,5 @@ Currently I'm building my personal profile site, using Github Pages and Jekyll -
 
 ## My GitHub Stats:
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=CardinisCode&show_icons=true&theme=tokyonight)
-<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CardinisCode&layout=compact)](https://github.com/CardinisCode/github-readme-stats)
 
 My code-learning adventure has only just began! 
