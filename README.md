@@ -11,8 +11,8 @@ I'm a self-taught developer and I'm originally from Cape Town, South Africa and 
 <img align="left" alt="HTML5" width="100px" height="30px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img align="left" alt="C" width="100px" height="30px" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 <img align="left" alt="Jekyll" width="100px" height="30px" src="https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white">
-<img align="left" alt="JavaScript" width="100px" height="30px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 
+<br/>
 <br/>
 <br/>
 
