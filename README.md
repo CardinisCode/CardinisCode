@@ -27,7 +27,7 @@ To see my skills at work, please take a look at the web app [Job Hunt Manager](h
 
 ## Going forward:
 
-I would love to build projects using
+I would love to build projects using:
 
 * The language: JavaScript
 * The Framework: Django 
@@ -35,8 +35,6 @@ I would love to build projects using
 * API's 
 * Test-Driven design, using Unit tests. 
 * AWS 
-
-I'd also love to learn the methodologies: Scrum and Agile working place. Tho It would also be nice to learn methologies at some point too, tho that's my geekside shining through LOL. Bugs are just villians in your code after all - they'll make you better as a developer and you'll be a better code hero as a result. 
 
 Currently I'm building my personal profile site, using Github Pages and Jekyll - as another platform to show case my skills at work. 
 
@@ -57,6 +55,7 @@ Currently I'm building my personal profile site, using Github Pages and Jekyll -
 <a href="https://twitter.com/Andi_Folgado">
   <img align="left" alt="Twitter" width="100px" height="30px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </a>
+<br/>
 <br/>
 
 ## My GitHub Stats:
