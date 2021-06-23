@@ -1,7 +1,6 @@
-### Hi, I'm Andi 👋  Yes, I'm a lady coder :yum:
+### Hi, I'm Andi 👋 
 
-I'm a self-taught developer and I'm originally from Cape Town, South Africa and I'm currently based in London, UK. I'm looking to get my first gig as a Software Engineer. My first preference is to work as a Backend Developer, but I am open to Front end and Full Stack developer roles. In the meanwhile, I plan to continue building projects and network with fellow software engineers - both experienced and fellow aspiring developers like myself. Although I am most familiar with Python, I'm open to learn any new language and / or framework that is needed for a role. 
-
+I'm a self-taught developer from Cape Town, South Africa and currently based in London, UK. Whilst I typically write code for the backend, I am aware of the importance of and design factors that come with frontend development, such as user experience (UX). I am most familiar with Python but am also proficient in JavaScript, HTML and CSS. 
 
 ## Skills, Languages, Frameworks & Tools:
 <img align="left" alt="Python" width="100px" height="30px" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
