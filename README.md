@@ -1,6 +1,13 @@
 ### Hi, I'm Andi 👋 
 
-I'm a self-taught developer from Cape Town, South Africa and currently based in London, UK. Whilst I typically write code for the backend, I am aware of the importance of and design factors that come with frontend development, such as user experience (UX). I am most familiar with Python but am also proficient in JavaScript, HTML and CSS. 
+I'm a digital product designer with 2.5 years of experience, blending creativity and technical prowess. 
+
+As a self-taught developer, I’ve honed my skills in Python, CSS, HTML5, and even dabbled in C. In my previous role, I stayed hands-on with coding while crafting seamless digital experiences. Highlights include:
+
+* Collaborating with a systems architect to merge 8 invoice templates into one cohesive design using Salesforce Apex, HTML, and CSS.
+* Authoring bespoke email templates across multiple projects.
+* Unifying email templates under a single design guideline.
+* Developing a report template for a gas safety assessment project with HTML, CSS, and Apex.
 
 ## Skills, Languages, Frameworks & Tools:
 <img align="left" alt="Python" width="100px" height="30px" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -20,7 +27,7 @@ I'm a self-taught developer from Cape Town, South Africa and currently based in 
 
 ## Latest Project:
 
-To see my skills at work, please take a look at the web app [Job Hunt Manager](https://jobhuntmanger.herokuapp.com) that I developed recently: 
+To see my skills at work, please take a look at the web app [Job Hunt Manager](https://jobhuntmanger.herokuapp.com) that I both designed and developed: 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CardinisCode&repo=jobhuntmanager)](https://github.com/CardinisCode/jobhuntmanager)
 
@@ -35,18 +42,21 @@ I would love to build projects using:
 * Test-Driven design, using Unit tests. 
 * AWS 
 
-Currently I'm building my personal profile site, using Github Pages and Jekyll - as another platform to show case my skills at work. 
+Currently I'm working on my digital design portfolio, where I show case the design and development projects I've worked on. You can view my portfolio: https://www.andreafolgado.com/ 
 
 ## Personal Interests & Hobbies:
 
 * Playing RPG & Strategy boardgames
-* Marvel, DC and Invincible
-* Podcasts: Darknet Diaries, Commandline Heroes (to name a few)
-* Going for long walks
-* Music: everything from rock, to the blues and EDM. The Queen really gets me going! 
+* Podcasts: Darknet Diaries, Divergent Conversations, Acquired, The Rest is History
+* Spending time with my husband and daughter
+* Playing Stardew valley on xbox. 
+* Music: everything from rock, to the blues and EDM. My current top 3 are Queen, Fleetwood Mac, and Pink Floyd. 
 
 
 ## Connect with me:
+
+<a href="https://www.andreafolgado.com/">
+<img align="left" alt="Linkedin" width="100px" height="30px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 <a href="https://www.linkedin.com/in/acfolgado/">
 <img align="left" alt="Linkedin" width="100px" height="30px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
