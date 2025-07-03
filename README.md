@@ -35,11 +35,11 @@ To see my skills at work, please take a look at the web app [Job Hunt Manager](h
 
 I would love to build projects using:
 
-* The language: JavaScript
+* The language: JavaScript / Typescript
 * The Framework: Reactive Native 
 * Security (security algorithms and even Google's OAuth)
 * API's 
-* Test-Driven design, using Unit tests. 
+* Test-Driven design, using Unit tests
 * AWS 
 
 Currently I'm working on my digital design portfolio, where I show case the design and development projects I've worked on. You can view my portfolio: https://www.andreafolgado.com/ 
@@ -52,7 +52,6 @@ Currently I'm working on my digital design portfolio, where I show case the desi
 * Playing Stardew valley on xbox. 
 * Music: everything from rock, to the blues and EDM. My current top 3 are Queen, Fleetwood Mac, and Pink Floyd. 
 
-
 ## Connect with me:
 
 <a href="https://www.andreafolgado.com/">
@@ -61,9 +60,6 @@ Currently I'm working on my digital design portfolio, where I show case the desi
 <a href="https://www.linkedin.com/in/acfolgado/">
 <img align="left" alt="Linkedin" width="100px" height="30px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-<a href="https://twitter.com/Andi_Folgado">
-  <img align="left" alt="Twitter" width="100px" height="30px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-</a>
 <br/>
 <br/>
 
