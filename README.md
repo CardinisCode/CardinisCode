@@ -1,13 +1,13 @@
 ### Hi, I'm Andi 👋 
 
-I'm a digital product designer with 2.5 years of experience, blending creativity and technical prowess. 
+I'm a Junior Software engineer, with a passion for delivering real-world solutions with a strong focus on user needs, while meeting project specifications. I’ve honed my skills in Python, CSS, HTML5, and even dabbled in C. 
 
-As a self-taught developer, I’ve honed my skills in Python, CSS, HTML5, and even dabbled in C. In my previous role, I stayed hands-on with coding while crafting seamless digital experiences. Highlights include:
+Additionally, I have a background in digital product designer with 2.5 years of experience. In my previous role, I stayed hands-on with coding while crafting seamless digital experiences. Highlights include:
 
+* Designing, Developing and owning a Gas Safety Project from start to finish. Tools include: Figma, HTML5, CSS, and Apex.
 * Collaborating with a systems architect to merge 8 invoice templates into one cohesive design using Salesforce Apex, HTML, and CSS.
 * Authoring bespoke email templates across multiple projects.
 * Unifying email templates under a single design guideline.
-* Developing a report template for a gas safety assessment project with HTML, CSS, and Apex.
 
 ## Skills, Languages, Frameworks & Tools:
 <img align="left" alt="Python" width="100px" height="30px" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -36,7 +36,7 @@ To see my skills at work, please take a look at the web app [Job Hunt Manager](h
 I would love to build projects using:
 
 * The language: JavaScript
-* The Framework: Django 
+* The Framework: Reactive Native 
 * Security (security algorithms and even Google's OAuth)
 * API's 
 * Test-Driven design, using Unit tests. 
