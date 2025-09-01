@@ -55,7 +55,7 @@ Currently I'm working on my digital design portfolio, where I show case the desi
 ## Connect with me:
 
 <a href="https://www.andreafolgado.com/">
-<img align="left" alt="Portfolio link" width="100px" height="30px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<img align="left" alt="Portfolio link" width="100px" height="30px" src="https://cardiniscode.github.io/img/logos/personalised_logo/andi_logo_nobackground.png"></a>
 
 <a href="https://www.linkedin.com/in/acfolgado/">
 <img align="left" alt="Linkedin" width="100px" height="30px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
